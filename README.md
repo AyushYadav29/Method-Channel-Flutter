@@ -5,3 +5,4 @@ Flutter uses a flexible system that allows you to call platform-specific APIs wh
 
 The following code demonstrates how to call a platform-specific API to retrieve and display the current battery percnetage. It uses the Android BatteryManager API, and the iOS device.batteryLevel API, via a single platform message, getBatteryLevel().
 
+<img width="429" alt="App Screenshot" src="https://github.com/AyushYadav29/Method-Channel-Flutter/blob/main/SS.jpg">
